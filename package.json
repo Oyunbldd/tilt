@@ -1,0 +1,16 @@
+{
+  "name": "s3uploud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1090.0",
+    "serverless-offline": "^8.5.0"
+  }
+}
